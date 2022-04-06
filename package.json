@@ -1,0 +1,32 @@
+{
+    "name": "tcp-random-faker",
+    "version": "1.0.0",
+    "description": "Simple Node.js tool for testing TCP socket applications",
+    "main": "index.mjs",
+    "type": "module",
+    "scripts": {
+        "test": "mocha",
+        "start": "node index.mjs"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/elius94/tcp-random-faker.git"
+    },
+    "keywords": [
+        "tcp",
+        "random",
+        "faker",
+        "simulator",
+        "generator",
+        "socket"
+    ],
+    "author": "Elia Lazzari",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/elius94/tcp-random-faker/issues"
+    },
+    "homepage": "https://github.com/elius94/tcp-random-faker#readme",
+    "dependencies": {
+        "chalk": "^5.0.1"
+    }
+}
