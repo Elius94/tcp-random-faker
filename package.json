@@ -28,6 +28,6 @@
     "homepage": "https://github.com/elius94/tcp-random-faker#readme",
     "dependencies": {
         "chalk": "^5.0.1",
-        "console-gui-tools": "^1.1.1"
+        "console-gui-tools": "^1.1.9"
     }
 }
